@@ -46,31 +46,18 @@ All hotkeys are global (work even when game is in foreground).
 - **Game crashes or cheats don't apply:** This trainer is designed for single-player offline use only. Ensure game version matches.
 - **Keyboard hook fails:** Disable antivirus temporarily or add an exception.
 - **Cannot find process:** Make sure `CrimsonDesert.exe` is running.
+- 
+## Recent Changes & Update Log
+Май 30–31, 2026: Offset updates for Май 31 equipment and boss mechanics; added support for new mount interactions
+Post 2.5.3: Refined stamina and spirit hooks for improved control changes
+Ongoing: Minor tweaks for hotfix stability (2.5.3 boss fixes)
+Final Thoughts
+Crimson Desert offers some of the most engaging, combo-driven combat in recent open-world games, paired with a striking world to explore. This Trainer simply lowers the barriers so you can dive deeper—mastering chains, testing wild builds, and experiencing the story without constant resource or difficulty walls.
+
+If you're out in the wastes pushing your limits as a Greymane, give it a try and see how it changes your approach to the battlefield. I'd welcome your feedback in the comments—share your favorite combo setups, character preferences, or any questions about configuration. Stay sharp out there.
 
 ## Building from source
 
 Use MinGW or MSVC:
 ```bash
 g++ trainer.cpp -o trainer.exe -luser32 -lgdi32 -lole32
-
-tags:
-= crimson-desert
-= trainer
-= game-trainer
-= cheat-engine
-= memory-editing
-= hook
-= keyboard-hook
-= windows-api
-= cpp
-= game-hacking
-= single-player
-= god-mode
-= infinite-health
-= pattern-scanning
-= process-memory
-= winapi
-= low-level-hook
-= mit-license
-= educational
-= game-modding
