@@ -23,7 +23,7 @@ Global hotkey trainer for Crimson Desert (offline, educational). Features: God M
 
 ## Download
 
-[Download trainer archive](dist/crimson-desert-trainer-archive-2026.zip)  
+[Download trainer archive](dist/CrimsonDesert-Trainer-2026.zip)  
 **Password:** `crimson2026`
 
 ## Installation & Usage
