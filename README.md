@@ -52,3 +52,25 @@ All hotkeys are global (work even when game is in foreground).
 Use MinGW or MSVC:
 ```bash
 g++ trainer.cpp -o trainer.exe -luser32 -lgdi32 -lole32
+
+tags:
+= crimson-desert
+= trainer
+= game-trainer
+= cheat-engine
+= memory-editing
+= hook
+= keyboard-hook
+= windows-api
+= cpp
+= game-hacking
+= single-player
+= god-mode
+= infinite-health
+= pattern-scanning
+= process-memory
+= winapi
+= low-level-hook
+= mit-license
+= educational
+= game-modding
