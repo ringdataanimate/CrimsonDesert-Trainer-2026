@@ -1,0 +1,22 @@
+Compiled output
+*.exe
+*.obj
+*.pdb
+*.ilk
+
+Dist archives
+dist/*.zip
+!dist/.gitkeep
+
+User settings
+trainer.ini
+*.user
+
+Temporary files
+*.tmp
+*.log
+
+IDE
+.vs/
+.vscode/
+*.suo
